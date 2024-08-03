@@ -1,0 +1,3900 @@
+{
+  "compatibilityLevel": 1550,
+  "model": {
+    "annotations": [
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"Table 1 (AllCounts)\",\"Table1\"]"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "1"
+      },
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.130.754.0 (24.06)"
+      },
+      {
+        "name": "PBI_ProTooling",
+        "value": "[\"DevMode\"]"
+      }
+    ],
+    "culture": "en-US",
+    "cultures": [
+      {
+        "name": "en-US",
+        "linguisticMetadata": {
+          "content": {
+            "Entities": {
+              "table_1": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "table 1": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "Table1": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  }
+                ]
+              },
+              "table_1.ABRleft": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "ABR-Left"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "ABR-left": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "ABR left": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "left": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "left-hand": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "port": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "missing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "table_1.ABRright": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "ABR-Right"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "ABR-right": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "ABR right": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  }
+                ]
+              },
+              "table_1.OAEleft": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "OAE-Left"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "OAE-left": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "OAE left": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "left": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "left-hand": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "port": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "missing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "table_1.OAEright": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "OAE-Right"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "OAE-right": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "OAE right": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  }
+                ]
+              },
+              "table_1.actual_visit_hospital": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Actual Visit Hospital"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "actual visit hospital": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "visit hospital": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "real visit hospital": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "existent visit hospital": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "tangible visit hospital": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "actual visit infirmary": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.508
+                    }
+                  },
+                  {
+                    "actual visit hospice": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.508
+                    }
+                  },
+                  {
+                    "actual visit sickbay": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.508
+                    }
+                  },
+                  {
+                    "actual visit sanatorium": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.508
+                    }
+                  },
+                  {
+                    "actual visit clinic": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.508
+                    }
+                  },
+                  {
+                    "visit infirmary": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  },
+                  {
+                    "visit hospice": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  }
+                ]
+              },
+              "table_1.child_name": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Child Name"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "child name": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "child": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "child nickname": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "child title": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "child label": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "child tag": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "youngster": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "teenager": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "nipper": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "kid": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "teen-ager": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "teen": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  }
+                ]
+              },
+              "table_1.date": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Date"
+                  }
+                },
+                "SemanticType": "Time",
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "date": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "moment": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "period": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  }
+                ]
+              },
+              "table_1.date.variation.date_hierarchy": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "Hierarchy": "Date Hierarchy",
+                    "VariationSet": "Variation",
+                    "VariationSource": "Date"
+                  }
+                },
+                "SemanticType": "Time",
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "date hierarchy": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  }
+                ]
+              },
+              "table_1.date.variation.date_hierarchy.day": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "Hierarchy": "Date Hierarchy",
+                    "HierarchyLevel": "Day",
+                    "VariationSet": "Variation",
+                    "VariationSource": "Date"
+                  }
+                },
+                "SemanticType": "Time",
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "day": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "date day": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "moment day": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.6
+                    }
+                  },
+                  {
+                    "period day": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  }
+                ]
+              },
+              "table_1.date.variation.date_hierarchy.month": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "Hierarchy": "Date Hierarchy",
+                    "HierarchyLevel": "Month",
+                    "VariationSet": "Variation",
+                    "VariationSource": "Date"
+                  }
+                },
+                "SemanticType": "Time",
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "month": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "date month": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "date mth": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "mth": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "moment month": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.6
+                    }
+                  },
+                  {
+                    "period month": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  }
+                ]
+              },
+              "table_1.date.variation.date_hierarchy.quarter": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "Hierarchy": "Date Hierarchy",
+                    "HierarchyLevel": "Quarter",
+                    "VariationSet": "Variation",
+                    "VariationSource": "Date"
+                  }
+                },
+                "SemanticType": "Time",
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "quarter": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "date quarter": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "date qtr": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.833
+                    }
+                  },
+                  {
+                    "qtr": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.818
+                    }
+                  },
+                  {
+                    "moment quarter": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.6
+                    }
+                  },
+                  {
+                    "period quarter": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  }
+                ]
+              },
+              "table_1.date.variation.date_hierarchy.year": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "Hierarchy": "Date Hierarchy",
+                    "HierarchyLevel": "Year",
+                    "VariationSet": "Variation",
+                    "VariationSource": "Date"
+                  }
+                },
+                "SemanticType": "Time",
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "year": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "date year": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "date yr": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "yr": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "moment year": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.6
+                    }
+                  },
+                  {
+                    "period year": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  }
+                ]
+              },
+              "table_1.decisionleft": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Decision-Left"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "decision-left": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "decision left": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "left": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "left-hand": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "port": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "missing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "table_1.decisionright": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Decision-Right"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "decision-right": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "decision right": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "نتيجة الإحالة": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  },
+                  {
+                    "نتائج الإحالة": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  },
+                  {
+                    "نتيجة الاحالة": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "table_1.external_ID": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "External ID"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "external ID": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "external": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "external identification": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "external identity": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "external identifier": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "external credential": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "outside": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "exterior": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "peripheral": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "outward": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  }
+                ]
+              },
+              "table_1.hospital": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Hospital"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "hospital": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "infirmary": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "hospice": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "sickbay": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "sanatorium": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "clinic": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "مركز الفحص المتقدم": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "table_1.mother_name": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Mother Name"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "mother name": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "mother": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "mother nickname": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "mother title": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "mother label": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "mother tag": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "ma": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "mom": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "mommy": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "mamma": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "mama": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "mammy": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  }
+                ]
+              },
+              "table_1.mother_national_ID": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Mother National ID"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "mother national ID": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "national": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "mother national": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "national ID": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "mother national identification": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.762
+                    }
+                  },
+                  {
+                    "mother national identity": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.762
+                    }
+                  },
+                  {
+                    "mother national identifier": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.762
+                    }
+                  },
+                  {
+                    "national identification": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "national identity": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "national identifier": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "mother national credential": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.739
+                    }
+                  },
+                  {
+                    "national credential": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {},
+                  {
+                    "general": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  }
+                ]
+              },
+              "table_1.reservation": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Reservation"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "reservation": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "registration": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "arrangement": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "booking": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "unwillingness": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "reluctance": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "hesitation": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "aloofness": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "formality": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "shyness": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "coolness": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  }
+                ]
+              },
+              "table_1.tympanometryleft": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Tympanometry-Left"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "tympanometry-left": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "tympanometry left": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "left": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "left-hand": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "port": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "missing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "table_1.tympanometryright": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Tympanometry-Right"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "tympanometry-right": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "tympanometry right": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  }
+                ]
+              },
+              "table_1.unit": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table1",
+                    "ConceptualProperty": "Unit"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "unit": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "module": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "element": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "entity": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "component": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  },
+                  {
+                    "constituent": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  },
+                  {
+                    "item": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  },
+                  {
+                    "part": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  },
+                  {
+                    "section": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  },
+                  {
+                    "الوحدة الصحية": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "table 1 (AllCounts)": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "table 1 (AllCount)": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.78
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.إجمالى_عدد_المقيدين": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "إجمالى عدد المقيدين"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "إجمالى عدد المقيدين": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.إجمالى_عدد_المواليد": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "إجمالى عدد المواليد"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "إجمالى عدد المواليد": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.إجمالى_فحص_السمع_إختبار_أول": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "إجمالى فحص السمع إختبار أول"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "إجمالى فحص السمع إختبار أول": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.إجمالى_فحص_السمع_إختبار_ثان": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "إجمالى فحص السمع إختبار ثان"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "إجمالى فحص السمع إختبار ثان": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.المحافظة": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "المحافظة"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "المحافظة": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.توجه_للخاص": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "توجه للخاص"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "توجه للخاص": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.رفض_إعادة_الفحص_بالوحدة": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "رفض إعادة الفحص بالوحدة"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "رفض إعادة الفحص بالوحدة": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.طبيعي_إختبار_أول": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "طبيعي إختبار أول"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "طبيعي إختبار أول": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.طبيعي_إختبار_ثان": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "طبيعي إختبار ثان"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "طبيعي إختبار ثان": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.عدم_إمكانية_التواصل": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "عدم إمكانية التواصل"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "عدم إمكانية التواصل": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.غير_طبيعي_إختبار_أول": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "غير طبيعي إختبار أول"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "غير طبيعي إختبار أول": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.غير_طبيعي_إختبار_ثان": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": " غير طبيعي إختبار ثان"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "غير طبيعي إختبار ثان": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "table_1_AllCounts.وفاة_الطفل": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Table 1 (AllCounts)",
+                    "ConceptualProperty": "وفاة الطفل"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "وفاة الطفل": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              }
+            },
+            "Language": "en-US",
+            "Relationships": {
+              "table_1_AllCounts_has_إجمالى_عدد_المقيدين": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.إجمالى_عدد_المقيدين"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_إجمالى_عدد_المقيدين",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.إجمالى_عدد_المقيدين": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.إجمالى_عدد_المقيدين"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_إجمالى_عدد_المواليد": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.إجمالى_عدد_المواليد"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_إجمالى_عدد_المواليد",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.إجمالى_عدد_المواليد": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.إجمالى_عدد_المواليد"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_إجمالى_فحص_السمع_إختبار_أول": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.إجمالى_فحص_السمع_إختبار_أول"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_إجمالى_فحص_السمع_إختبار_أول",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.إجمالى_فحص_السمع_إختبار_أول": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.إجمالى_فحص_السمع_إختبار_أول"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_إجمالى_فحص_السمع_إختبار_ثان": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.إجمالى_فحص_السمع_إختبار_ثان"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_إجمالى_فحص_السمع_إختبار_ثان",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.إجمالى_فحص_السمع_إختبار_ثان": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.إجمالى_فحص_السمع_إختبار_ثان"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_المحافظة": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.المحافظة"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_المحافظة",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.المحافظة": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.المحافظة"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_توجه_للخاص": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.توجه_للخاص"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_توجه_للخاص",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.توجه_للخاص": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.توجه_للخاص"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_رفض_إعادة_الفحص_بالوحدة": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.رفض_إعادة_الفحص_بالوحدة"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_رفض_إعادة_الفحص_بالوحدة",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.رفض_إعادة_الفحص_بالوحدة": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.رفض_إعادة_الفحص_بالوحدة"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_طبيعي_إختبار_أول": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.طبيعي_إختبار_أول"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_طبيعي_إختبار_أول",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.طبيعي_إختبار_أول": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.طبيعي_إختبار_أول"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_طبيعي_إختبار_ثان": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.طبيعي_إختبار_ثان"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_طبيعي_إختبار_ثان",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.طبيعي_إختبار_ثان": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.طبيعي_إختبار_ثان"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_عدم_إمكانية_التواصل": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.عدم_إمكانية_التواصل"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_عدم_إمكانية_التواصل",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.عدم_إمكانية_التواصل": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.عدم_إمكانية_التواصل"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_غير_طبيعي_إختبار_أول": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.غير_طبيعي_إختبار_أول"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_غير_طبيعي_إختبار_أول",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.غير_طبيعي_إختبار_أول": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.غير_طبيعي_إختبار_أول"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_غير_طبيعي_إختبار_ثان": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.غير_طبيعي_إختبار_ثان"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_غير_طبيعي_إختبار_ثان",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.غير_طبيعي_إختبار_ثان": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.غير_طبيعي_إختبار_ثان"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_AllCounts_has_وفاة_الطفل": {
+                "Binding": {
+                  "ConceptualEntity": "Table 1 (AllCounts)"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1_AllCounts.وفاة_الطفل"
+                      },
+                      "Subject": {
+                        "Role": "table_1_AllCounts"
+                      }
+                    },
+                    "ID": "table_1_AllCounts_have_وفاة_الطفل",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1_AllCounts": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts"
+                    }
+                  },
+                  "table_1_AllCounts.وفاة_الطفل": {
+                    "Target": {
+                      "Entity": "table_1_AllCounts.وفاة_الطفل"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_date_has_variation_date_hierarchy": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.date.variation.date_hierarchy"
+                      },
+                      "Subject": {
+                        "Role": "table_1.date"
+                      }
+                    },
+                    "ID": "dates_have_date_hierarchies",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1.date": {
+                    "Target": {
+                      "Entity": "table_1.date"
+                    }
+                  },
+                  "table_1.date.variation.date_hierarchy": {
+                    "Target": {
+                      "Entity": "table_1.date.variation.date_hierarchy"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_date_variation_date_hierarchy_has_day": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.date.variation.date_hierarchy.day"
+                      },
+                      "Subject": {
+                        "Role": "table_1.date.variation.date_hierarchy"
+                      }
+                    },
+                    "ID": "date_hierarchies_have_days",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1.date.variation.date_hierarchy": {
+                    "Target": {
+                      "Entity": "table_1.date.variation.date_hierarchy"
+                    }
+                  },
+                  "table_1.date.variation.date_hierarchy.day": {
+                    "Target": {
+                      "Entity": "table_1.date.variation.date_hierarchy.day"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_date_variation_date_hierarchy_has_month": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.date.variation.date_hierarchy.month"
+                      },
+                      "Subject": {
+                        "Role": "table_1.date.variation.date_hierarchy"
+                      }
+                    },
+                    "ID": "date_hierarchies_have_months",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1.date.variation.date_hierarchy": {
+                    "Target": {
+                      "Entity": "table_1.date.variation.date_hierarchy"
+                    }
+                  },
+                  "table_1.date.variation.date_hierarchy.month": {
+                    "Target": {
+                      "Entity": "table_1.date.variation.date_hierarchy.month"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_date_variation_date_hierarchy_has_quarter": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.date.variation.date_hierarchy.quarter"
+                      },
+                      "Subject": {
+                        "Role": "table_1.date.variation.date_hierarchy"
+                      }
+                    },
+                    "ID": "date_hierarchies_have_quarters",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1.date.variation.date_hierarchy": {
+                    "Target": {
+                      "Entity": "table_1.date.variation.date_hierarchy"
+                    }
+                  },
+                  "table_1.date.variation.date_hierarchy.quarter": {
+                    "Target": {
+                      "Entity": "table_1.date.variation.date_hierarchy.quarter"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_date_variation_date_hierarchy_has_year": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.date.variation.date_hierarchy.year"
+                      },
+                      "Subject": {
+                        "Role": "table_1.date.variation.date_hierarchy"
+                      }
+                    },
+                    "ID": "date_hierarchies_have_years",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1.date.variation.date_hierarchy": {
+                    "Target": {
+                      "Entity": "table_1.date.variation.date_hierarchy"
+                    }
+                  },
+                  "table_1.date.variation.date_hierarchy.year": {
+                    "Target": {
+                      "Entity": "table_1.date.variation.date_hierarchy.year"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_ABRleft": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.ABRleft"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_ABRlefts",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.ABRleft": {
+                    "Target": {
+                      "Entity": "table_1.ABRleft"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_ABRright": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.ABRright"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_ABRrights",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.ABRright": {
+                    "Target": {
+                      "Entity": "table_1.ABRright"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_OAEleft": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.OAEleft"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_OAElefts",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.OAEleft": {
+                    "Target": {
+                      "Entity": "table_1.OAEleft"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_OAEright": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.OAEright"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_OAErights",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.OAEright": {
+                    "Target": {
+                      "Entity": "table_1.OAEright"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_actual_visit_hospital": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.actual_visit_hospital"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_actual_visit_hospitals",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.actual_visit_hospital": {
+                    "Target": {
+                      "Entity": "table_1.actual_visit_hospital"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_child_name": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.child_name"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_child_names",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.child_name": {
+                    "Target": {
+                      "Entity": "table_1.child_name"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_date": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.date"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_dates",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.date": {
+                    "Target": {
+                      "Entity": "table_1.date"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_decisionleft": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.decisionleft"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_decisionlefts",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.decisionleft": {
+                    "Target": {
+                      "Entity": "table_1.decisionleft"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_decisionright": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.decisionright"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_decisionrights",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.decisionright": {
+                    "Target": {
+                      "Entity": "table_1.decisionright"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_external_ID": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.external_ID"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_external_ID",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.external_ID": {
+                    "Target": {
+                      "Entity": "table_1.external_ID"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_hospital": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.hospital"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_hospitals",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.hospital": {
+                    "Target": {
+                      "Entity": "table_1.hospital"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_mother_name": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.mother_name"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_mother_names",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.mother_name": {
+                    "Target": {
+                      "Entity": "table_1.mother_name"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_mother_national_ID": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.mother_national_ID"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_mother_national_ID",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.mother_national_ID": {
+                    "Target": {
+                      "Entity": "table_1.mother_national_ID"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_reservation": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.reservation"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_reservations",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.reservation": {
+                    "Target": {
+                      "Entity": "table_1.reservation"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_tympanometryleft": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.tympanometryleft"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_tympanometrylefts",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.tympanometryleft": {
+                    "Target": {
+                      "Entity": "table_1.tympanometryleft"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_tympanometryright": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.tympanometryright"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_tympanometryrights",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.tympanometryright": {
+                    "Target": {
+                      "Entity": "table_1.tympanometryright"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "table_1_has_unit": {
+                "Binding": {
+                  "ConceptualEntity": "Table1"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "table_1.unit"
+                      },
+                      "Subject": {
+                        "Role": "table_1"
+                      }
+                    },
+                    "ID": "table_1_have_units",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "table_1": {
+                    "Target": {
+                      "Entity": "table_1"
+                    }
+                  },
+                  "table_1.unit": {
+                    "Target": {
+                      "Entity": "table_1.unit"
+                    }
+                  }
+                },
+                "State": "Generated"
+              }
+            },
+            "Version": "3.5.0"
+          },
+          "contentType": "json"
+        }
+      }
+    ],
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "relationships": [
+      {
+        "name": "0ffdc9f4-8e40-425f-aac6-4fb5184cee0c",
+        "fromColumn": "Date",
+        "fromTable": "Table1",
+        "joinOnDateBehavior": "datePartOnly",
+        "toColumn": "Date",
+        "toTable": "LocalDateTable_64b9d286-f150-4c14-9252-6f5df77cc4b8"
+      }
+    ],
+    "sourceQueryCulture": "en-US",
+    "tables": [
+      {
+        "name": "Table 1 (AllCounts)",
+        "annotations": [
+          {
+            "name": "PBI_ResultType",
+            "value": "Table"
+          }
+        ],
+        "columns": [
+          {
+            "name": "إجمالى عدد المواليد",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "31863fa3-bb22-4cc7-9a8a-a9c83c03a48e",
+            "sourceColumn": "إجمالى عدد المواليد",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "إجمالى عدد المقيدين",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "395dd99f-f5a5-48a5-986c-50e189cc2a4c",
+            "sourceColumn": "إجمالى عدد المقيدين",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "إجمالى فحص السمع إختبار ثان",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "b012870d-9896-4b0d-92b2-6a8512a1e9fe",
+            "sourceColumn": "إجمالى فحص السمع إختبار ثان",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "وفاة الطفل",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "7abed168-45cf-4ab3-b140-3d60ef32c4fd",
+            "sourceColumn": "وفاة الطفل",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": " غير طبيعي إختبار ثان",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "17b2541d-d516-4540-8acb-c062eeeb1b3f",
+            "sourceColumn": " غير طبيعي إختبار ثان",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "عدم إمكانية التواصل",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "dd173430-7d4a-42a5-b335-f470a4d48385",
+            "sourceColumn": "عدم إمكانية التواصل",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "طبيعي إختبار ثان",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "8c23249f-3e5a-4792-87f4-d639110d810f",
+            "sourceColumn": "طبيعي إختبار ثان",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "رفض إعادة الفحص بالوحدة",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "28afa182-6bf1-4113-b56a-319ee796e5de",
+            "sourceColumn": "رفض إعادة الفحص بالوحدة",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "توجه للخاص",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "4743a870-8da3-4f1a-8337-2be83f9463a9",
+            "sourceColumn": "توجه للخاص",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "إجمالى فحص السمع إختبار أول",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "87fa88ea-0f00-4d4b-a17a-d730b6ef8ce2",
+            "sourceColumn": "إجمالى فحص السمع إختبار أول",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "غير طبيعي إختبار أول",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "b4a3e460-dde5-4fc3-8d1b-78d45a912a12",
+            "sourceColumn": "غير طبيعي إختبار أول",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "طبيعي إختبار أول",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "de7be577-4f1e-44b9-a38e-c270176c2f65",
+            "sourceColumn": "طبيعي إختبار أول",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "المحافظة",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "174af0c7-2298-4c3b-8290-0d3941b3b297",
+            "sourceColumn": "المحافظة",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "02e43071-c3d1-48f9-ac94-0f0369fab72d",
+        "partitions": [
+          {
+            "name": "Table 1 (AllCounts)",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Source = Excel.Workbook(File.Contents(\"C:\\Users\\SERVER\\Downloads\\AllCounts(8).xlsx\"), null, false),",
+                "    AllCounts_sheet = Source{[Item=\"AllCounts\",Kind=\"Sheet\"]}[Data],",
+                "    FilterNullAndWhitespace = each List.Select(_, each _ <> null and (not (_ is text) or Text.Trim(_) <> \"\")),",
+                "    #\"Removed Bottom Rows\" = Table.RemoveLastN(AllCounts_sheet, each try List.IsEmpty(List.Skip(FilterNullAndWhitespace(Record.FieldValues(_)), 1)) otherwise false),",
+                "    #\"Promoted Headers\" = Table.PromoteHeaders(#\"Removed Bottom Rows\", [PromoteAllScalars=true]),",
+                "    #\"Changed Type\" = Table.TransformColumnTypes(#\"Promoted Headers\",{{\"إجمالى عدد المواليد\", Int64.Type}, {\"إجمالى عدد المقيدين\", Int64.Type}, {\"إجمالى فحص السمع إختبار ثان\", Int64.Type}, {\"وفاة الطفل\", Int64.Type}, {\" غير طبيعي إختبار ثان\", Int64.Type}, {\"عدم إمكانية التواصل\", Int64.Type}, {\"طبيعي إختبار ثان\", Int64.Type}, {\"رفض إعادة الفحص بالوحدة\", Int64.Type}, {\"توجه للخاص\", Int64.Type}, {\"إجمالى فحص السمع إختبار أول\", Int64.Type}, {\"غير طبيعي إختبار أول\", Int64.Type}, {\"طبيعي إختبار أول\", Int64.Type}, {\"المحافظة\", type text}})",
+                "in",
+                "    #\"Changed Type\""
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "DateTableTemplate_ade841bc-6e6d-446c-9b5f-67dc9d4b95c0",
+        "annotations": [
+          {
+            "name": "__PBI_TemplateDateTable",
+            "value": "true"
+          },
+          {
+            "name": "DefaultItem",
+            "value": "DateHierarchy"
+          }
+        ],
+        "columns": [
+          {
+            "name": "Date",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataCategory": "PaddedDateTableDates",
+            "dataType": "dateTime",
+            "formatString": "General Date",
+            "isHidden": true,
+            "isNameInferred": true,
+            "lineageTag": "dc13f7b7-c63d-439a-946a-3dfe56727c13",
+            "sourceColumn": "[Date]",
+            "summarizeBy": "none",
+            "type": "calculatedTableColumn"
+          },
+          {
+            "name": "Year",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Year"
+              }
+            ],
+            "dataCategory": "Years",
+            "dataType": "int64",
+            "expression": "YEAR([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "1fe540b2-54f5-4642-9a97-f33d18b5310e",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "MonthNo",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "MonthNumber"
+              }
+            ],
+            "dataCategory": "MonthOfYear",
+            "dataType": "int64",
+            "expression": "MONTH([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "9953d0b0-ff13-415f-88c1-3aec8b467ec1",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Month",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Month"
+              }
+            ],
+            "dataCategory": "Months",
+            "dataType": "string",
+            "expression": "FORMAT([Date], \"MMMM\")",
+            "isHidden": true,
+            "lineageTag": "b1070faa-3981-46d9-a41b-57cb3605811c",
+            "sortByColumn": "MonthNo",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "QuarterNo",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "QuarterNumber"
+              }
+            ],
+            "dataCategory": "QuarterOfYear",
+            "dataType": "int64",
+            "expression": "INT(([MonthNo] + 2) / 3)",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "3b4fc3cf-5448-42c7-a2fc-50c168436120",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Quarter",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Quarter"
+              }
+            ],
+            "dataCategory": "Quarters",
+            "dataType": "string",
+            "expression": "\"Qtr \" & [QuarterNo]",
+            "isHidden": true,
+            "lineageTag": "13c69d8a-49be-4221-a482-c9d73d52fa2f",
+            "sortByColumn": "QuarterNo",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Day",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Day"
+              }
+            ],
+            "dataCategory": "DayOfMonth",
+            "dataType": "int64",
+            "expression": "DAY([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "7e16c54b-9e68-4007-b73b-f18f8b42b369",
+            "summarizeBy": "none",
+            "type": "calculated"
+          }
+        ],
+        "hierarchies": [
+          {
+            "name": "Date Hierarchy",
+            "annotations": [
+              {
+                "name": "TemplateId",
+                "value": "DateHierarchy"
+              }
+            ],
+            "levels": [
+              {
+                "name": "Year",
+                "column": "Year",
+                "lineageTag": "b87b462f-a9cc-4855-9283-35e952358fd0",
+                "ordinal": 0
+              },
+              {
+                "name": "Quarter",
+                "column": "Quarter",
+                "lineageTag": "f4677dfc-cd5e-4f36-a85f-b22873214e40",
+                "ordinal": 1
+              },
+              {
+                "name": "Month",
+                "column": "Month",
+                "lineageTag": "66d8d107-9803-4448-9b9a-bd4b2c08ed90",
+                "ordinal": 2
+              },
+              {
+                "name": "Day",
+                "column": "Day",
+                "lineageTag": "e813ac00-4da7-4eb1-9690-0041fd538569",
+                "ordinal": 3
+              }
+            ],
+            "lineageTag": "681cc6da-2f7e-4d31-9ffb-48ca181fea0f"
+          }
+        ],
+        "isHidden": true,
+        "isPrivate": true,
+        "lineageTag": "05d04916-d409-4e21-9daa-07b715c34784",
+        "partitions": [
+          {
+            "name": "DateTableTemplate_ade841bc-6e6d-446c-9b5f-67dc9d4b95c0",
+            "mode": "import",
+            "source": {
+              "expression": "Calendar(Date(2015,1,1), Date(2015,1,1))",
+              "type": "calculated"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Table1",
+        "annotations": [
+          {
+            "name": "PBI_ResultType",
+            "value": "Table"
+          }
+        ],
+        "columns": [
+          {
+            "name": "External ID",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "85ecb8cc-6dd2-4a0e-a983-2c00b6fcd82c",
+            "sourceColumn": "External ID",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Reservation",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "dc996ea9-9fdd-4f19-99d1-57f19f7ae9d9",
+            "sourceColumn": "Reservation",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Date",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              },
+              {
+                "name": "UnderlyingDateTimeDataType",
+                "value": "Date"
+              }
+            ],
+            "dataType": "dateTime",
+            "formatString": "Long Date",
+            "lineageTag": "5683dd78-f19e-4918-b5ca-b8e977f4c8dd",
+            "sourceColumn": "Date",
+            "summarizeBy": "none",
+            "variations": [
+              {
+                "name": "Variation",
+                "defaultHierarchy": {
+                  "hierarchy": "Date Hierarchy",
+                  "table": "LocalDateTable_64b9d286-f150-4c14-9252-6f5df77cc4b8"
+                },
+                "isDefault": true,
+                "relationship": "0ffdc9f4-8e40-425f-aac6-4fb5184cee0c"
+              }
+            ]
+          },
+          {
+            "name": "Child Name",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "475afed9-d419-4219-a197-390ac7265647",
+            "sourceColumn": "Child Name",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Mother Name",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "d00d7ebb-10b2-49bc-bbea-18ff6f0ae35b",
+            "sourceColumn": "Mother Name",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Mother National ID",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "3948edbd-6b14-45dd-ab49-7788bf30a083",
+            "sourceColumn": "Mother National ID",
+            "summarizeBy": "count"
+          },
+          {
+            "name": "Hospital",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "7dbb15bd-7ca1-4cb6-bf46-5520786bf909",
+            "sourceColumn": "Hospital",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Actual Visit Hospital",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "0f2d57fc-412b-4ac4-bfde-0f3eb0ad5c92",
+            "sourceColumn": "Actual Visit Hospital",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Unit",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "d38b0c72-f55c-4082-9a90-51367ebfc035",
+            "sourceColumn": "Unit",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "ABR-Left",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "fc52beb5-8863-46de-80e0-ed7a9d891d62",
+            "sourceColumn": "ABR-Left",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "ABR-Right",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "cf4e0c93-3a1d-40b4-b40d-caf78ad06128",
+            "sourceColumn": "ABR-Right",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Tympanometry-Left",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "62266825-c2f0-4dc0-892f-c4575d32228d",
+            "sourceColumn": "Tympanometry-Left",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Tympanometry-Right",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "f534aca4-7d8b-45a6-8391-a16507c13d5e",
+            "sourceColumn": "Tympanometry-Right",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "OAE-Left",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "2d57f84d-a3d5-413f-9b65-6c99974c59c6",
+            "sourceColumn": "OAE-Left",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "OAE-Right",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "0fe267fe-0619-451b-8c25-97da40779e71",
+            "sourceColumn": "OAE-Right",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Decision-Left",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "94c8a9fd-4196-48ab-90f4-3ba6f5c67f1e",
+            "sourceColumn": "Decision-Left",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Decision-Right",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "d54c46c6-f338-4232-add7-75e884add97b",
+            "sourceColumn": "Decision-Right",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "c0cbea3c-70ce-4b67-83e1-04626712b338",
+        "partitions": [
+          {
+            "name": "Table1",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Source = Excel.Workbook(File.Contents(\"C:\\Users\\SERVER\\Downloads\\hearing_disorders.child_result (30).xlsx\"), null, true),",
+                "    Table1_Table = Source{[Item=\"Table1\",Kind=\"Table\"]}[Data],",
+                "    #\"Changed Type\" = Table.TransformColumnTypes(Table1_Table,{{\"External ID\", type text}, {\"Reservation\", Int64.Type}, {\"Date\", type date}, {\"Child Name\", type text}, {\"Mother Name\", type text}, {\"Mother National ID\", Int64.Type}, {\"Hospital\", type text}, {\"Actual Visit Hospital\", type text}, {\"Unit\", type text}, {\"ABR-Left\", type text}, {\"ABR-Right\", type text}, {\"Tympanometry-Left\", type text}, {\"Tympanometry-Right\", type text}, {\"OAE-Left\", type text}, {\"OAE-Right\", type text}, {\"Decision-Left\", type text}, {\"Decision-Right\", type text}})",
+                "in",
+                "    #\"Changed Type\""
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "LocalDateTable_64b9d286-f150-4c14-9252-6f5df77cc4b8",
+        "annotations": [
+          {
+            "name": "__PBI_LocalDateTable",
+            "value": "true"
+          }
+        ],
+        "columns": [
+          {
+            "name": "Date",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataCategory": "PaddedDateTableDates",
+            "dataType": "dateTime",
+            "formatString": "General Date",
+            "isHidden": true,
+            "isNameInferred": true,
+            "lineageTag": "b1351e17-0b09-406b-8859-c802c03c12a2",
+            "sourceColumn": "[Date]",
+            "summarizeBy": "none",
+            "type": "calculatedTableColumn"
+          },
+          {
+            "name": "Year",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Year"
+              }
+            ],
+            "dataCategory": "Years",
+            "dataType": "int64",
+            "expression": "YEAR([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "bd0e249c-7cc5-4d87-9e6d-fb4e5930f77d",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "MonthNo",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "MonthNumber"
+              }
+            ],
+            "dataCategory": "MonthOfYear",
+            "dataType": "int64",
+            "expression": "MONTH([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "0d6ecc08-849a-4708-b711-538e55b30d14",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Month",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Month"
+              }
+            ],
+            "dataCategory": "Months",
+            "dataType": "string",
+            "expression": "FORMAT([Date], \"MMMM\")",
+            "isHidden": true,
+            "lineageTag": "38558c8f-aa2e-471e-ae21-0002f8312fc6",
+            "sortByColumn": "MonthNo",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "QuarterNo",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "QuarterNumber"
+              }
+            ],
+            "dataCategory": "QuarterOfYear",
+            "dataType": "int64",
+            "expression": "INT(([MonthNo] + 2) / 3)",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "8ab4752e-21c3-48c6-a6c5-03c81b6d1a5b",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Quarter",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Quarter"
+              }
+            ],
+            "dataCategory": "Quarters",
+            "dataType": "string",
+            "expression": "\"Qtr \" & [QuarterNo]",
+            "isHidden": true,
+            "lineageTag": "94e4483c-d766-4276-a40e-1db7496faf9e",
+            "sortByColumn": "QuarterNo",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Day",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Day"
+              }
+            ],
+            "dataCategory": "DayOfMonth",
+            "dataType": "int64",
+            "expression": "DAY([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "6ae8e816-203e-43e2-9bad-c13db972d421",
+            "summarizeBy": "none",
+            "type": "calculated"
+          }
+        ],
+        "hierarchies": [
+          {
+            "name": "Date Hierarchy",
+            "annotations": [
+              {
+                "name": "TemplateId",
+                "value": "DateHierarchy"
+              }
+            ],
+            "levels": [
+              {
+                "name": "Year",
+                "column": "Year",
+                "lineageTag": "55ac1bb6-3428-4a88-ac5d-245e1d8d788f",
+                "ordinal": 0
+              },
+              {
+                "name": "Quarter",
+                "column": "Quarter",
+                "lineageTag": "b01cc225-2345-4684-9006-656f108ef551",
+                "ordinal": 1
+              },
+              {
+                "name": "Month",
+                "column": "Month",
+                "lineageTag": "a65de604-ddd9-4177-a96e-63c61cfe721d",
+                "ordinal": 2
+              },
+              {
+                "name": "Day",
+                "column": "Day",
+                "lineageTag": "cb4df6f4-afb7-4b45-9668-e92809063f66",
+                "ordinal": 3
+              }
+            ],
+            "lineageTag": "712af803-b44e-4639-b95e-73041ce094ba"
+          }
+        ],
+        "isHidden": true,
+        "lineageTag": "b0895106-afdf-439a-9181-6c69b5b1b540",
+        "partitions": [
+          {
+            "name": "LocalDateTable_64b9d286-f150-4c14-9252-6f5df77cc4b8",
+            "mode": "import",
+            "source": {
+              "expression": "Calendar(Date(Year(MIN('Table1'[Date])), 1, 1), Date(Year(MAX('Table1'[Date])), 12, 31))",
+              "type": "calculated"
+            }
+          }
+        ],
+        "showAsVariationsOnly": true
+      }
+    ]
+  }
+}
